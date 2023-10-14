@@ -1,1 +1,0 @@
-# techcareer-bootcamp-react-template
